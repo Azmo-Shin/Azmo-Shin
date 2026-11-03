@@ -32,6 +32,14 @@
 </tr>
 </table>
 
+## 코드 저장소
+
+| 저장소 | 무엇 | 포트폴리오 |
+|---|---|---|
+| [seoul-living-population-gis](https://github.com/Azmo-Shin/seoul-living-population-gis) | 서울 250m 격자 생활인구 GIS 대시보드 — 적재·공간차원·집계마트·FastAPI·React/deck.gl | [02](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) |
+| [gemma4-agent-template](https://github.com/Azmo-Shin/gemma4-agent-template) | 프레임워크 없는 tool-calling 에이전트 템플릿 (가드레일·오프라인 테스트) | [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) |
+| [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) | 회의·강의 음성 → 화자분리 전사 → 로컬 LLM 회의록/강의노트 CLI (오프라인) | 08 계열 개인 프로젝트 |
+
 ## 요즘
 
 - 로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 사내 분석·심사 업무에 붙이는 중
