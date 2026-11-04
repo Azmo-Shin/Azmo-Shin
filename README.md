@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_11.svg" width="100%" alt="11 승강장 혼잡도 예측 (공공)"></a></td>
-<td></td>
+<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_demos.svg" width="100%" alt="실행 예제 · 글"></a></td>
 </tr>
 </table>
 
@@ -40,50 +40,127 @@
 
 어떤 방법과 판단으로 풀었는지 **직접 다시 정리한 글**로 이어 둡니다. 회사의 소스 코드·데이터·실측치와 의뢰기관명은 공개하지 않으며, 실행 예제는 가상 데이터로 새로 작성했습니다.
 
-| 시기 | 프로젝트 | 방법론 정리 |
-|---|---|---|
-| | **외식 프랜차이즈 본사 · 데이터 분석 (2025–2026)** | |
-| 2026 | **점포 성과 등급화 월간 배치** — Ward HAC 최적 K · Jenks · 요일조건부 이상탐지 | [03](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly) |
-| 2025 | **POS 매출 예측 BI 시스템** — 트리 후보선택 + Prophet 블렌딩 · what-if | [01](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/01_sales_forecasting) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/forecast_blending) |
-| 2025 | **GIS 공간통계 상권분석** — Moran's I · LISA · 격자 입지점수 | [02](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) · [GIS 저장소](https://github.com/Azmo-Shin/seoul-living-population-gis) |
-| 2025 | **오픈매장 마케팅 효과 통계검증** — 비모수 검정 · BH-FDR | [04](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/effect_testing_bh) |
-| 2025 | **리뷰 텍스트마이닝 VOC 분석 체계** — 룰 + KcELECTRA · ONNX | [05](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/05_korean_sentiment_kcelectra) · [진단 글](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) |
-| 2025–26 | 키워드·매핑 규칙 점수 · Gen-AI 에이전트 · 로컬 LLM 평가 · 멀티에이전트 AI 심사 | [07](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/07_rule_based_scoring) · [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) · [09](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag) · [10](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site) |
-| | **공공기관 정책 데이터 분석 · PL (2020–2024)** | |
-| 2024 | **체육 인센티브 제도 수요·효과성 분석** — 제안서 작성·수주부터 분석·컨설팅 보고까지 단독 | 산출물 비공개 |
-| 2023 | **승강장 혼잡도 예측** — 교통카드 태그로 역·방향별 대기·하차 인원 예측 → 면적당 경보 단계 | [11](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression) |
-| 2023 | 지역화폐 판매 패턴·할인율 효과 분석 — 회원·가맹점·결제 데이터로 지자체 간 비교 | — |
-| 2023 | 저출산 환경요인 비교 대시보드 — 자치구 출산율·연관지표 상관분석 | — |
-| 2022 | 돌봄교실 우선 적용 지역 선별 — 소득분위 + 시군구 수요인구 예측 (PL) | — |
-| 2021 | 비산먼지 예측 + 청소차 경로 추천 — Prophet·회귀 스태킹, 정수선형계획 경로 (PL) | — |
-| 2021 | 소상공인 상권분석 데이터마트 + Qlik 시각화 | — |
-| 2020 | 행정 표준분석모델 고도화(QGIS → Python 자동화) · 지자체 교육 | — |
-| | **개인 프로젝트** | |
-| 2026 | 멀티봇 영상 파이프라인 · 회의록 자동화 CLI | [08](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline) · [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) |
+<table>
+<tr>
+<th width="72">시기</th>
+<th>프로젝트</th>
+<th width="150">방법론 정리</th>
+</tr>
+<tr>
+<td colspan="3"><b>외식 프랜차이즈 본사 · 데이터 분석 (2025–2026)</b></td>
+</tr>
+<tr>
+<td width="72" align="center">2026</td>
+<td><b>점포 성과 등급화 월간 배치</b> — Ward HAC 최적 K · Jenks · 요일조건부 이상탐지</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2025</td>
+<td><b>POS 매출 예측 BI 시스템</b> — 트리 후보선택 + Prophet 블렌딩 · what-if</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/01_sales_forecasting">01</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/forecast_blending">예제</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2025</td>
+<td><b>GIS 공간통계 상권분석</b> — Moran's I · LISA · 격자 입지점수</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda">02</a> · <a href="https://github.com/Azmo-Shin/seoul-living-population-gis">GIS 코드</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2025</td>
+<td><b>오픈매장 마케팅 효과 통계검증</b> — 비모수 검정 · BH-FDR</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr">04</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/effect_testing_bh">예제</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2025</td>
+<td><b>리뷰 텍스트마이닝 VOC 분석 체계</b> — 룰 + KcELECTRA · ONNX</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/05_korean_sentiment_kcelectra">05</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md">글</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2025–26</td>
+<td>키워드·매핑 규칙 점수 · Gen-AI 에이전트 · 로컬 LLM 평가 · 멀티에이전트 AI 심사</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/07_rule_based_scoring">07</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent">06</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag">09</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site">10</a></td>
+</tr>
+<tr>
+<td colspan="3"><b>공공기관 정책 데이터 분석 · PL (2020–2024)</b></td>
+</tr>
+<tr>
+<td width="72" align="center">2024</td>
+<td><b>체육 인센티브 제도 수요·효과성 분석</b> — 제안서 작성·수주부터 분석·컨설팅 보고까지 단독</td>
+<td width="150">산출물 비공개</td>
+</tr>
+<tr>
+<td width="72" align="center">2023</td>
+<td><b>승강장 혼잡도 예측</b> — 교통카드 태그로 역·방향별 대기·하차 인원 예측 → 면적당 경보 단계</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression">11</a></td>
+</tr>
+<tr>
+<td width="72" align="center">2023</td>
+<td>지역화폐 판매 패턴·할인율 효과 분석 — 회원·가맹점·결제 데이터로 지자체 간 비교</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td width="72" align="center">2023</td>
+<td>저출산 환경요인 비교 대시보드 — 자치구 출산율·연관지표 상관분석</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td width="72" align="center">2022</td>
+<td>돌봄교실 우선 적용 지역 선별 (PL) — 소득분위 + 시군구 수요인구 예측</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td width="72" align="center">2021</td>
+<td>비산먼지 예측 + 청소차 경로 추천 (PL) — Prophet·회귀 스태킹, 정수선형계획 경로</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td width="72" align="center">2021</td>
+<td>소상공인 상권분석 데이터마트 — Qlik 시각화</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td width="72" align="center">2020</td>
+<td>행정 표준분석모델 고도화 — QGIS → Python 자동화 · 지자체 교육</td>
+<td width="150">—</td>
+</tr>
+<tr>
+<td colspan="3"><b>개인 프로젝트</b></td>
+</tr>
+<tr>
+<td width="72" align="center">2026</td>
+<td>멀티봇 영상 파이프라인 · 오프라인 회의록 CLI</td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline">08</a> · <a href="https://github.com/Azmo-Shin/meeting-minutes-cli">CLI 코드</a></td>
+</tr>
+</table>
 
 ## 수상 · 학력 · 활동
 
-| 구분 | 내용 |
-|---|---|
-| **수상** | **Genspark AI Hackathon 2026 2위** (2026-10) — 결혼 준비의 일정·로드맵·예산·후기를 한곳에 모은 웹앱 「웨딩메이트」를 AI 코드 샌드박스로 당일 단독 제작 · [데모 열기](https://lhcxrinu.gensparkspace.com/) |
-| | 통계소프트웨어 학술경진대회 입상 (2018, 안양대학교) |
-| **학력** | 성균관대학교 정보통신대학원 빅데이터학과 석사과정 (2026-09 ~ 재학) |
-| | 안양대학교 정보통계학과 학사 · 경영학 부전공 |
-| **자격** | 빅데이터분석기사 (2024) · ADsP (2020) |
-| **활동** | 서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석 |
-| | 한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020) |
-| **요즘** | 로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 분석·심사 업무에 붙이는 중 — 모델 비교 평가([09](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag)), 3단계 AI 심사([10](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site)) |
-| | 개인적으로는 메신저 한마디로 조사 → 대본 → 내 목소리 → 설명 영상까지 만드는 멀티봇을 운영([08](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline))하고, 회의 녹음은 직접 만든 [오프라인 회의록 CLI](https://github.com/Azmo-Shin/meeting-minutes-cli)로 정리 |
+<table>
+<tr>
+<td width="72" align="center"><b>수상</b></td>
+<td><b>Genspark AI Hackathon 2026 2위</b> (2026-10) — 결혼 준비의 일정·로드맵·예산·후기를 한곳에 모은 웹앱 「웨딩메이트」를 AI 코드 샌드박스로 당일 단독 제작 · <a href="https://lhcxrinu.gensparkspace.com/">데모 열기</a><br>통계소프트웨어 학술경진대회 입상 (2018, 안양대학교)</td>
+</tr>
+<tr>
+<td width="72" align="center"><b>학력</b></td>
+<td>성균관대학교 정보통신대학원 빅데이터학과 석사과정 (2026-09 ~ 재학)<br>안양대학교 정보통계학과 학사 · 경영학 부전공</td>
+</tr>
+<tr>
+<td width="72" align="center"><b>자격</b></td>
+<td>빅데이터분석기사 (2024) · ADsP (2020)</td>
+</tr>
+<tr>
+<td width="72" align="center"><b>활동</b></td>
+<td>서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석<br>한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020)</td>
+</tr>
+<tr>
+<td width="72" align="center"><b>요즘</b></td>
+<td>로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 분석·심사 업무에 붙이는 중 — 모델 비교 평가(<a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag">09</a>), 3단계 AI 심사(<a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site">10</a>)<br>개인적으로는 메신저 한마디로 조사 → 대본 → 내 목소리 → 설명 영상까지 만드는 멀티봇을 운영(<a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline">08</a>)하고, 회의 녹음은 직접 만든 <a href="https://github.com/Azmo-Shin/meeting-minutes-cli">오프라인 회의록 CLI</a>로 정리</td>
+</tr>
+</table>
 
 ## 더 보기
 
-- **실행해 보기**: [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos) — 가상 데이터로 돌아가는 예제 2개, 테스트 자동 실행
-- **글**: [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md)
-
-| 코드 저장소 | 무엇 | 포트폴리오 |
-|---|---|---|
-| [seoul-living-population-gis](https://github.com/Azmo-Shin/seoul-living-population-gis) | 서울 250m 격자 생활인구 GIS 대시보드 — 적재·공간차원·집계마트·FastAPI·React/deck.gl | [02](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) |
-| [gemma4-agent-template](https://github.com/Azmo-Shin/gemma4-agent-template) [![tests](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml/badge.svg)](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml) | 프레임워크 없는 tool-calling 에이전트 템플릿 (가드레일·오프라인 테스트) | [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) |
-| [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) | 회의·강의 음성 → 화자분리 전사 → 로컬 LLM 회의록/강의노트 CLI (오프라인) | 개인 프로젝트 |
+- **실행해 보기** — [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos): 가상 데이터로 돌아가는 예제 2개, GitHub Actions 테스트
+- **글** — [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md)
+- **코드 저장소** — 아래 Pinned 4개 (gemma4-agent-template는 오프라인 테스트 CI [![tests](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml/badge.svg)](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml))
 
 <p align="center"><sub>📫 93hjshin@gmail.com</sub></p>
