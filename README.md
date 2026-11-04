@@ -90,32 +90,32 @@
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>AI_TOP_100 예선 · 카카오톡 고객상담 에이전트</b> — 하루 만에 단독 구축 — 액션 API 프록시 · 인터뷰 자동화 · 모의 심사기 (예선 탈락, 원인 회고)</td>
+<td><b>AI_TOP_100 예선 · 카카오톡 CS 에이전트</b> — 액션 API 프록시 · 인터뷰 자동화 (예선 탈락)</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md">회고 글</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>웨딩메이트 · Genspark Hackathon 2위</b> — 결혼 준비 일정·로드맵·예산·후기를 한곳에 모은 웹앱, 당일 단독 제작</td>
+<td><b>웨딩메이트 · Genspark 해커톤 2위</b> — 결혼 준비 올인원 웹앱, 당일 단독 제작</td>
 <td width="150"><a href="https://lhcxrinu.gensparkspace.com/">데모</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>멀티봇 영상 파이프라인</b> — 메신저 한마디 → 조사 · 대본 · 내 목소리 · 설명 영상, 역할별 봇 8개 운영</td>
+<td><b>멀티봇 영상 파이프라인</b> — 조사 · 대본 · 내 목소리 · 영상, 봇 8개 운영</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline">08</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>내 목소리 TTS</b> — 로컬 GPU zero-shot 음성 복제, 끝말 잘림 원인을 라이브러리 소스에서 찾아 문장 단위 재생성으로 해결</td>
+<td><b>내 목소리 TTS</b> — zero-shot 음성 복제, 끝말 잘림 원인 규명 · 해결</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline">08 · 잘림 방어</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>오프라인 회의록 CLI</b> — Whisper 전사 + 화자분리 + 로컬 LLM 안건별 요약, 환각 필터 · 화자 수 교차검증</td>
+<td><b>오프라인 회의록 CLI</b> — Whisper 전사 + 화자분리 + 로컬 LLM 요약</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/meeting-minutes-cli">CLI 코드</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>서울시 빅데이터 경진대회 (팀 대표)</b> — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석 · 대시보드</td>
+<td><b>서울시 빅데이터 경진대회 (팀 대표)</b> — 자치구 재활용률 격차 원인 분석</td>
 <td width="150">—</td>
 </tr>
 </table>
