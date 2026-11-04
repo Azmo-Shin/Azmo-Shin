@@ -7,11 +7,11 @@
 
 <p align="center"><sub><b>EN</b> · Applied data scientist (7 yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
 
-## 이력서 프로젝트 ↔ 공개 자료
+## 이력서 프로젝트 ↔ 방법론 정리
 
-이력서의 대표 프로젝트를 어디서 확인할 수 있는지 이어 둡니다. 회사 데이터·실측치는 싣지 않고, 방법·판단·코드 구조를 공개합니다.
+이력서의 대표 프로젝트를 어떤 방법과 판단으로 풀었는지 **직접 다시 정리한 글**로 이어 둡니다. 회사의 소스 코드·데이터·실측치는 공개하지 않으며, 실행 예제는 가상 데이터로 새로 작성했습니다.
 
-| 이력서 대표 프로젝트 | 공개 자료 |
+| 이력서 대표 프로젝트 | 방법론 정리 |
 |---|---|
 | 승강장 혼잡도 예측 (공공, 2023) | [11 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression) |
 | 체육 인센티브 제도 수요·효과성 분석 (공공, 2024 · 제안·수주부터 단독 분석) | 공공기관 의뢰 과제로 산출물 비공개 |
