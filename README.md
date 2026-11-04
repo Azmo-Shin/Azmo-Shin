@@ -2,12 +2,12 @@
 
 <p align="center">
 <b>수집 → 데이터마트 → 모델링 → 검증 → BI 배포 → 월간 배치</b>까지 혼자 구축해 운영하는 데이터 사이언티스트입니다.<br>
-공공기관 분석 PL 4년, F&B 프랜차이즈 본사 3년. 결론의 신뢰도를 검정으로 관리하고, 한계까지 그대로 보고하는 분석을 지향합니다.
+공공기관 분석 PL 4년을 거쳐 지금은 외식 프랜차이즈 본사(2025~)에서 분석을 맡고 있습니다. 결론의 신뢰도를 검정으로 관리하고, 한계까지 그대로 보고하는 분석을 지향합니다.
 </p>
 
 <p align="center"><sub><b>EN</b> · Applied data scientist (7 yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
 
-## 프로젝트 카드
+## 대표 프로젝트
 
 <table>
 <tr>
@@ -20,21 +20,11 @@
 </tr>
 <tr>
 <td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/05_korean_sentiment_kcelectra"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_05.svg" width="100%" alt="05 한국어 리뷰 감성"></a></td>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_06.svg" width="100%" alt="06 tool-calling 에이전트"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/07_rule_based_scoring"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_07.svg" width="100%" alt="07 규칙 기반 스코어링"></a></td>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_08.svg" width="100%" alt="08 멀티봇 영상 파이프라인"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_09.svg" width="100%" alt="09 로컬 LLM 평가·감성모델 진단"></a></td>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_10.svg" width="100%" alt="10 멀티에이전트 AI 심사"></a></td>
-</tr>
-<tr>
 <td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_11.svg" width="100%" alt="11 승강장 혼잡도 예측 (공공)"></a></td>
-<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_demos.svg" width="100%" alt="실행 예제 · 글"></a></td>
 </tr>
 </table>
+
+<p align="center"><a href="https://github.com/Azmo-Shin/Public_Portfolio"><b>전체 11개 사례 + 실행 예제 · 글 보기 →</b></a></p>
 
 ## 경력 프로젝트 ↔ 방법론 정리
 
@@ -93,34 +83,7 @@
 <td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression">11</a></td>
 </tr>
 <tr>
-<td width="100" align="center">2023</td>
-<td>지역화폐 판매 패턴·할인율 효과 분석 — 회원·가맹점·결제 데이터로 지자체 간 비교</td>
-<td width="150">—</td>
-</tr>
-<tr>
-<td width="100" align="center">2023</td>
-<td>저출산 환경요인 비교 대시보드 — 자치구 출산율·연관지표 상관분석</td>
-<td width="150">—</td>
-</tr>
-<tr>
-<td width="100" align="center">2022</td>
-<td>돌봄교실 우선 적용 지역 선별 (PL) — 소득분위 + 시군구 수요인구 예측</td>
-<td width="150">—</td>
-</tr>
-<tr>
-<td width="100" align="center">2021</td>
-<td>비산먼지 예측 + 청소차 경로 추천 (PL) — Prophet·회귀 스태킹, 정수선형계획 경로</td>
-<td width="150">—</td>
-</tr>
-<tr>
-<td width="100" align="center">2021</td>
-<td>소상공인 상권분석 데이터마트 — Qlik 시각화</td>
-<td width="150">—</td>
-</tr>
-<tr>
-<td width="100" align="center">2020</td>
-<td>행정 표준분석모델 고도화 — QGIS → Python 자동화 · 지자체 교육</td>
-<td width="150">—</td>
+<td colspan="3"><details><summary>그 외 공공 과제 6건 (산출물 비공개)</summary><ul><li>2023 · 지역화폐 판매 패턴·할인율 효과 분석 — 회원·가맹점·결제 데이터로 지자체 간 비교</li><li>2023 · 저출산 환경요인 비교 대시보드 — 자치구 출산율·연관지표 상관분석</li><li>2022 · 돌봄교실 우선 적용 지역 선별 (PL) — 소득분위 + 시군구 수요인구 예측</li><li>2021 · 비산먼지 예측 + 청소차 경로 추천 (PL) — Prophet·회귀 스태킹, 정수선형계획 경로</li><li>2021 · 소상공인 상권분석 데이터마트 — Qlik 시각화</li><li>2020 · 행정 표준분석모델 고도화 — QGIS → Python 자동화 · 지자체 교육</li></ul></details></td>
 </tr>
 <tr>
 <td colspan="3"><b>개인 프로젝트</b></td>
