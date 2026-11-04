@@ -5,7 +5,7 @@
 공공기관 분석 PL 4년을 거쳐 지금은 외식 프랜차이즈 본사(2025~)에서 분석을 맡고 있습니다. 결론의 신뢰도를 검정으로 관리하고, 한계까지 그대로 보고하는 분석을 지향합니다.
 </p>
 
-<p align="center"><sub><b>EN</b> · Applied data scientist (7 yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
+<p align="center"><sub><b>EN</b> · Applied data scientist (6+ yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
 
 ## 대표 프로젝트
 
@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td width="100" align="center">2026</td>
-<td><b>점포 성과 등급화 월간 배치</b> — Ward HAC 최적 K · Jenks · 요일조건부 이상탐지</td>
+<td><b>점포 성과 등급화 월간 배치</b> — Ward HAC 최적 K · Jenks 자연분류</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a></td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@
 <table>
 <tr>
 <td width="100" align="center"><b>수상</b></td>
-<td><b>Genspark AI Hackathon 2026 2위</b> (2026-10) — 결혼 준비의 일정·로드맵·예산·후기를 한곳에 모은 웹앱 「웨딩메이트」를 AI 코드 샌드박스로 당일 단독 제작 · <a href="https://lhcxrinu.gensparkspace.com/">데모</a><br>통계소프트웨어 학술경진대회 입상 (2018, 안양대학교)</td>
+<td><b>Genspark Hackathon 2026 2위</b> (2026-10) — 결혼 준비의 일정·로드맵·예산·후기를 한곳에 모은 웹앱 「웨딩메이트」를 AI 코드 샌드박스로 당일 단독 제작 · <a href="https://lhcxrinu.gensparkspace.com/">데모</a><br>통계소프트웨어 학술경진대회 입상 (2018, 안양대학교)</td>
 </tr>
 <tr>
 <td width="100" align="center"><b>학력</b></td>
