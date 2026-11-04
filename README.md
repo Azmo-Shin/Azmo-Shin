@@ -113,11 +113,6 @@
 <td><b>오프라인 회의록 CLI</b> — Whisper 전사 + 화자분리 + 로컬 LLM 요약</td>
 <td width="150"><a href="https://github.com/Azmo-Shin/meeting-minutes-cli">CLI 코드</a></td>
 </tr>
-<tr>
-<td width="100" align="center">2026</td>
-<td><b>서울시 빅데이터 경진대회 (팀 대표)</b> — 자치구 재활용률 격차 원인 분석</td>
-<td width="150">—</td>
-</tr>
 </table>
 
 ## 수상 · 학력 · 활동
@@ -137,7 +132,7 @@
 </tr>
 <tr>
 <td width="100" align="center"><b>활동</b></td>
-<td><b>AI_TOP_100 2026 예선 참가</b> (2026-10) — 카카오톡 봇 고객상담 에이전트를 하루 만에 단독 구축(액션 API 프록시 · 인터뷰 자동화 · 모의 심사기). 심사 중 LLM 한도 소진으로 탈락 → <a href="https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md">원인 분석 회고</a><br>서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석<br>한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020)</td>
+<td><b>AI_TOP_100 2026 예선 참가</b> (2026-10) — 카카오톡 봇 고객상담 에이전트를 하루 만에 단독 구축(액션 API 프록시 · 인터뷰 자동화 · 모의 심사기). 심사 중 LLM 한도 소진으로 탈락 → <a href="https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md">원인 분석 회고</a><br>한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020)</td>
 </tr>
 <tr>
 <td width="100" align="center"><b>요즘</b></td>
