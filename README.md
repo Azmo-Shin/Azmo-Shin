@@ -14,7 +14,7 @@
 | 이력서 대표 프로젝트 | 공개 자료 |
 |---|---|
 | 승강장 혼잡도 예측 (공공, 2023) | [11 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression) |
-| 체육 인센티브 제도 수요·효과성 분석 (공공, 2024 · 제안·수주부터 단독 분석) | 산출물 비공개 — 이력서·면접에서 설명 |
+| 체육 인센티브 제도 수요·효과성 분석 (공공, 2024 · 제안·수주부터 단독 분석) | 공공기관 의뢰 과제로 산출물 비공개 |
 | POS 매출 예측 BI 시스템 (2025) | [01 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/01_sales_forecasting) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/forecast_blending) |
 | 리뷰 텍스트마이닝 VOC 분석 체계 (2025) | [05 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/05_korean_sentiment_kcelectra) · [진단 글](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) |
 | 오픈매장 마케팅 효과 통계검증 (2025) | [04 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/effect_testing_bh) |
