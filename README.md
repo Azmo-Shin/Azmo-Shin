@@ -5,9 +5,25 @@
 공공기관 분석 PL 4년, F&B 프랜차이즈 본사 3년. 결론의 신뢰도를 검정으로 관리하고, 한계까지 그대로 보고하는 분석을 지향합니다.
 </p>
 
-<p align="center">
-<a href="https://github.com/Azmo-Shin/Public_Portfolio"><b>📂 Public_Portfolio</b></a> — 방법론 폴더 10개 · 회사 데이터 없이 문제 설정 → 프로세스 도식 → 방법 → 코드 발췌 → 검증과 한계
-</p>
+<p align="center"><sub><b>EN</b> · Applied data scientist (7 yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
+
+## 이력서 프로젝트 ↔ 공개 자료
+
+이력서의 대표 프로젝트를 어디서 확인할 수 있는지 이어 둡니다. 회사 데이터·실측치는 싣지 않고, 방법·판단·코드 구조를 공개합니다.
+
+| 이력서 대표 프로젝트 | 공개 자료 |
+|---|---|
+| 승강장 혼잡도 예측 (공공, 2023) | [11 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression) |
+| 체육 인센티브 제도 수요·효과성 분석 (공공, 2024 · 제안·수주부터 단독 분석) | 산출물 비공개 — 이력서·면접에서 설명 |
+| POS 매출 예측 BI 시스템 (2025) | [01 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/01_sales_forecasting) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/forecast_blending) |
+| 리뷰 텍스트마이닝 VOC 분석 체계 (2025) | [05 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/05_korean_sentiment_kcelectra) · [진단 글](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) |
+| 오픈매장 마케팅 효과 통계검증 (2025) | [04 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr) · [실행 예제](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/effect_testing_bh) |
+| GIS 공간통계 상권분석 ESDA (2025) | [02 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) · [seoul-living-population-gis](https://github.com/Azmo-Shin/seoul-living-population-gis) |
+| 점포 성과 등급화 월간 배치 (2026) | [03 폴더](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly) |
+
+그 밖에: Gen-AI 에이전트 [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) · 규칙 기반 스코어링 [07](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/07_rule_based_scoring) · 로컬 LLM 평가 [09](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag) · 멀티에이전트 AI 심사 [10](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site) · 개인 프로젝트 [08](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline)
+
+## 프로젝트 카드
 
 <table>
 <tr>
@@ -30,20 +46,41 @@
 <td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_09.svg" width="100%" alt="09 로컬 LLM 평가·감성모델 진단"></a></td>
 <td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_10.svg" width="100%" alt="10 멀티에이전트 AI 심사"></a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression"><img src="https://raw.githubusercontent.com/Azmo-Shin/Public_Portfolio/main/assets/card_11.svg" width="100%" alt="11 승강장 혼잡도 예측 (공공)"></a></td>
+<td></td>
+</tr>
 </table>
 
-## 코드 저장소
+## 공공기관 분석 경력 (2020–2024)
 
-| 저장소 | 무엇 | 포트폴리오 |
+정책 데이터 분석 과제를 PL 또는 주 분석자로 수행했습니다. 의뢰기관명은 적지 않습니다.
+
+- **승강장 혼잡도 예측** — 교통카드 태그로 역·방향별 대기·하차 인원 예측 → 면적당 혼잡도 경보 단계 ([11](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/11_platform_crowding_regression))
+- **체육 인센티브 제도 수요·효과성 분석** — 제안서 작성·수주부터 분석·컨설팅 보고까지 단독
+- **지역화폐 판매 패턴·할인율 효과 분석** — 회원·가맹점·결제 데이터로 지자체 간 비교
+- **돌봄교실 우선 적용 지역 선별** — 소득분위 + 시군구 수요인구 예측 (PL)
+- **비산먼지 예측 + 청소차 경로 추천** — Prophet·회귀 스태킹, XGBoost + 정수선형계획 경로 (PL)
+- **저출산 환경요인 비교 대시보드** · **소상공인 상권분석 데이터마트(Qlik)** · **행정 표준분석모델 고도화(QGIS → Python 자동화)·지자체 교육**
+
+## 수상
+
+- **Genspark AI Hackathon 2026 2위** (2026-10) — 결혼 준비 올인원 웹앱 「웨딩메이트」 단독 제작 · [데모 열기](https://lhcxrinu.gensparkspace.com/)
+
+## 더 보기
+
+- **실행해 보기**: [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos) — 가상 데이터로 돌아가는 예제 2개, 테스트 자동 실행
+- **글**: [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md)
+
+| 코드 저장소 | 무엇 | 포트폴리오 |
 |---|---|---|
 | [seoul-living-population-gis](https://github.com/Azmo-Shin/seoul-living-population-gis) | 서울 250m 격자 생활인구 GIS 대시보드 — 적재·공간차원·집계마트·FastAPI·React/deck.gl | [02](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) |
-| [gemma4-agent-template](https://github.com/Azmo-Shin/gemma4-agent-template) | 프레임워크 없는 tool-calling 에이전트 템플릿 (가드레일·오프라인 테스트) | [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) |
-| [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) | 회의·강의 음성 → 화자분리 전사 → 로컬 LLM 회의록/강의노트 CLI (오프라인) | 08 계열 개인 프로젝트 |
+| [gemma4-agent-template](https://github.com/Azmo-Shin/gemma4-agent-template) [![tests](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml/badge.svg)](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml) | 프레임워크 없는 tool-calling 에이전트 템플릿 (가드레일·오프라인 테스트) | [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) |
+| [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) | 회의·강의 음성 → 화자분리 전사 → 로컬 LLM 회의록/강의노트 CLI (오프라인) | 개인 프로젝트 |
 
 ## 요즘
 
 - 로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 사내 분석·심사 업무에 붙이는 중
 - 성균관대 빅데이터 대학원 재학 · 빅데이터분석기사 · ADsP
-- Genspark AI Hackathon 2026 2위
 
 <p align="center"><sub>📫 93hjshin@gmail.com</sub></p>
