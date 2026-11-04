@@ -112,7 +112,7 @@
 </tr>
 <tr>
 <td width="100" align="center"><b>활동</b></td>
-<td>서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석<br>한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020)</td>
+<td><b>AI_TOP_100 2026 예선 참가</b> (2026-10) — 카카오톡 봇 고객상담 에이전트를 하루 만에 단독 구축(액션 API 프록시 · 인터뷰 자동화 · 모의 심사기). 심사 중 LLM 한도 소진으로 탈락 → <a href="https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md">원인 분석 회고</a><br>서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석<br>한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020)</td>
 </tr>
 <tr>
 <td width="100" align="center"><b>요즘</b></td>
@@ -123,7 +123,7 @@
 ## 더 보기
 
 - **실행해 보기** — [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos): 가상 데이터로 돌아가는 예제 2개, GitHub Actions 테스트
-- **글** — [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md)
+- **글** — [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md) · [AI_TOP_100 예선 회고](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md)
 - **코드 저장소** — 아래 Pinned 4개 (GIS 대시보드 · tool-calling 에이전트 템플릿 · 오프라인 회의록 CLI)
 
 <p align="center"><sub>📫 93hjshin@gmail.com</sub></p>
