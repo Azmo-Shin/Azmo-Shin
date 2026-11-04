@@ -61,9 +61,19 @@
 | | **개인 프로젝트** | |
 | 2026 | 멀티봇 영상 파이프라인 · 회의록 자동화 CLI | [08](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline) · [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) |
 
-## 수상
+## 수상 · 학력 · 활동
 
-- **Genspark AI Hackathon 2026 2위** (2026-10) — 결혼 준비 올인원 웹앱 「웨딩메이트」 단독 제작 · [데모 열기](https://lhcxrinu.gensparkspace.com/)
+| 구분 | 내용 |
+|---|---|
+| **수상** | **Genspark AI Hackathon 2026 2위** (2026-10) — 결혼 준비의 일정·로드맵·예산·후기를 한곳에 모은 웹앱 「웨딩메이트」를 AI 코드 샌드박스로 당일 단독 제작 · [데모 열기](https://lhcxrinu.gensparkspace.com/) |
+| | 통계소프트웨어 학술경진대회 입상 (2018, 안양대학교) |
+| **학력** | 성균관대학교 정보통신대학원 빅데이터학과 석사과정 (2026-09 ~ 재학) |
+| | 안양대학교 정보통계학과 학사 · 경영학 부전공 |
+| **자격** | 빅데이터분석기사 (2024) · ADsP (2020) |
+| **활동** | 서울시 빅데이터 활용 경진대회 시각화부문 출품 · 팀 대표 (2026) — 공공데이터 7종으로 자치구 재활용률 격차 원인 분석 |
+| | 한국지능정보사회진흥원(NIA) 공공빅데이터 분석 인턴 · 교육 수료 (2020) |
+| **요즘** | 로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 분석·심사 업무에 붙이는 중 — 모델 비교 평가([09](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/09_local_llm_eval_sentiment_diag)), 3단계 AI 심사([10](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/10_ai_judging_multiagent_site)) |
+| | 개인적으로는 메신저 한마디로 조사 → 대본 → 내 목소리 → 설명 영상까지 만드는 멀티봇을 운영([08](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/08_personal_agent_video_pipeline))하고, 회의 녹음은 직접 만든 [오프라인 회의록 CLI](https://github.com/Azmo-Shin/meeting-minutes-cli)로 정리 |
 
 ## 더 보기
 
@@ -75,10 +85,5 @@
 | [seoul-living-population-gis](https://github.com/Azmo-Shin/seoul-living-population-gis) | 서울 250m 격자 생활인구 GIS 대시보드 — 적재·공간차원·집계마트·FastAPI·React/deck.gl | [02](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda) |
 | [gemma4-agent-template](https://github.com/Azmo-Shin/gemma4-agent-template) [![tests](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml/badge.svg)](https://github.com/Azmo-Shin/gemma4-agent-template/actions/workflows/tests.yml) | 프레임워크 없는 tool-calling 에이전트 템플릿 (가드레일·오프라인 테스트) | [06](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/06_genai_tool_agent) |
 | [meeting-minutes-cli](https://github.com/Azmo-Shin/meeting-minutes-cli) | 회의·강의 음성 → 화자분리 전사 → 로컬 LLM 회의록/강의노트 CLI (오프라인) | 개인 프로젝트 |
-
-## 요즘
-
-- 로컬 LLM(Ollama)과 Claude Code 멀티에이전트를 사내 분석·심사 업무에 붙이는 중
-- 성균관대 빅데이터 대학원 재학 · 빅데이터분석기사 · ADsP
 
 <p align="center"><sub>📫 93hjshin@gmail.com</sub></p>
