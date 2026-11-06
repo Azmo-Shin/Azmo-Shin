@@ -44,7 +44,7 @@
 <tr>
 <td width="100" align="center">2026</td>
 <td><b>점포 성과 등급화 월간 배치</b> — Ward HAC 최적 K · Jenks 자연분류</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a> · <a href="https://shin-ds-demo.streamlit.app/?demo=2">데모</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
@@ -54,12 +54,12 @@
 <tr>
 <td width="100" align="center">2025</td>
 <td><b>GIS 공간통계 상권분석</b> — Moran's I · LISA · 격자 입지점수</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda">02</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a> · <a href="https://github.com/Azmo-Shin/seoul-living-population-gis">GIS 코드</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda">02</a> · <a href="https://shin-ds-demo.streamlit.app/?demo=3">데모</a> · <a href="https://github.com/Azmo-Shin/seoul-living-population-gis">GIS 코드</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
 <td><b>오픈매장 마케팅 효과 통계검증</b> — 비모수 검정 · BH-FDR</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr">04</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr">04</a> · <a href="https://shin-ds-demo.streamlit.app/?demo=1">데모</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
