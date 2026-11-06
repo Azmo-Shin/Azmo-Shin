@@ -5,6 +5,8 @@
 공공기관 분석 PL 4년을 거쳐 지금은 외식 프랜차이즈 본사(2025~)에서 분석을 맡고 있습니다. 결론의 신뢰도를 검정으로 관리하고, 한계까지 그대로 보고하는 분석을 지향합니다.
 </p>
 
+<p align="center"><a href="https://shin-ds-demo.streamlit.app/"><b>▶ 방법론 데모 열기</b></a> — 슬라이더로 직접 바꿔 보는 BH-FDR · 요일 조건부 이상탐지 · 서울 생활인구 핫스팟</p>
+
 <p align="center"><sub><b>EN</b> · Applied data scientist (6+ yrs) — forecasting, spatial statistics, Korean NLP and LLM agents, shipped end-to-end from data mart to BI. Portfolio: anonymized case studies + runnable demos.</sub></p>
 
 ## 대표 프로젝트
@@ -42,7 +44,7 @@
 <tr>
 <td width="100" align="center">2026</td>
 <td><b>점포 성과 등급화 월간 배치</b> — Ward HAC 최적 K · Jenks 자연분류</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/03_store_clustering_anomaly">03</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
@@ -52,12 +54,12 @@
 <tr>
 <td width="100" align="center">2025</td>
 <td><b>GIS 공간통계 상권분석</b> — Moran's I · LISA · 격자 입지점수</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda">02</a> · <a href="https://github.com/Azmo-Shin/seoul-living-population-gis">GIS 코드</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/02_spatial_esda">02</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a> · <a href="https://github.com/Azmo-Shin/seoul-living-population-gis">GIS 코드</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
 <td><b>오픈매장 마케팅 효과 통계검증</b> — 비모수 검정 · BH-FDR</td>
-<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr">04</a> · <a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos/effect_testing_bh">예제</a></td>
+<td width="150"><a href="https://github.com/Azmo-Shin/Public_Portfolio/tree/main/04_effect_testing_fdr">04</a> · <a href="https://shin-ds-demo.streamlit.app/">데모</a></td>
 </tr>
 <tr>
 <td width="100" align="center">2025</td>
@@ -142,7 +144,7 @@
 
 ## 더 보기
 
-- **실행해 보기** — [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos): 가상 데이터로 돌아가는 예제 2개, GitHub Actions 테스트
+- **실행해 보기** — [▶ 데모 앱](https://shin-ds-demo.streamlit.app/) · [`demos/`](https://github.com/Azmo-Shin/Public_Portfolio/tree/main/demos): 가상 데이터로 돌아가는 예제 2개, GitHub Actions 테스트
 - **글** — [감성 모델이 사람 판정과 어긋날 때](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/01_sentiment_model_diagnosis.md) · [임베딩 대신 규칙을 고른 이유](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/02_rules_that_say_i_dont_know.md) · [AI_TOP_100 예선 회고](https://github.com/Azmo-Shin/Public_Portfolio/blob/main/writing/03_aitop100_postmortem.md)
 - **코드 저장소** — 아래 Pinned 4개 (GIS 대시보드 · tool-calling 에이전트 템플릿 · 오프라인 회의록 CLI)
 
